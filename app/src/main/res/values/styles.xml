@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="carbon_CheckBox" parent="android:Widget.CompoundButton.CheckBox">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:button">@null</item>
+        <item name="carbon_checkColor">@drawable/carbon_checkradiocolor</item>
+        <item name="android:drawablePadding">16dp</item>
+    </style>
+
+    <style name="carbon_RadioButton" parent="android:Widget.CompoundButton.RadioButton">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:button">@null</item>
+        <item name="carbon_radioColor">@drawable/carbon_checkradiocolor</item>
+        <item name="android:drawablePadding">16dp</item>
+    </style>
+</resources>

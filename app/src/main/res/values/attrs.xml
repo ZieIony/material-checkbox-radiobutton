@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CheckBox">
+        <attr name="carbon_checkColor" format="reference|color" />
+    </declare-styleable>
+
+    <declare-styleable name="RadioButton">
+        <attr name="carbon_radioColor" format="reference|color" />
+    </declare-styleable>
+</resources>
